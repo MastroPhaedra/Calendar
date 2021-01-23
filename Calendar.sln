@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calendar", "Calendar.pyproj", "{2BD6E2A4-59D8-495E-AA18-5955B8FB9A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD6E2A4-59D8-495E-AA18-5955B8FB9A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD6E2A4-59D8-495E-AA18-5955B8FB9A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA2CEAD-1DE1-4ECC-BEE8-756BE2E5E8D9}
+	EndGlobalSection
+EndGlobal
