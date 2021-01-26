@@ -93,7 +93,7 @@ def osnov_calendar(): # для красоты, изначальную задум
 def osn_goroskop():
     global first, second1, second2, third, goroskop, wrapped_goroskop
     def loe_fail(f):
-        fail=open(f,'r')
+        fail=open(f,'r',encoding="utf-8")
         mas=[] 
         for rida in fail:
             mas.append(rida.strip(";\n"))
